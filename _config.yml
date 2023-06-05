@@ -1,3 +1,7 @@
-theme: just-the-docs
+theme: jekyll-theme-minimal
 title: Niche breadth dynamics in arid vertebrates
-description: Work in progress
+description: Does the niche breadth differ between arid and non-arid tetrapods? Are niche dynamics different in ectotherms and endotherms?
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
